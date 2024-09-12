@@ -5,7 +5,7 @@ export default function Footer() {
 
         <div id="node" className="w-[40%] md:max-w-[15vw] text-sm text-[#AA9A9A]">
           <div className=' text-2xl font-semibold mb-6 text-white'>Home</div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure harum tenetur assumenda. Maiores, cupiditate iste!</p>
+          <p>Hassle free Scholarships <br/> Join for the best scholarships available under The Prime Minister&apos;s Special Scholarship Scheme.</p>
         </div>
         <div id="node" className="w-[40%] md:max-w-[10vw] text-sm text-[#AA9A9A]">
           <div className=' text-2xl font-semibold mb-6 text-white'>About us</div>

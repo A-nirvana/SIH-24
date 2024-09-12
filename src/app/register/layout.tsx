@@ -20,6 +20,31 @@ export default function Layout({
             <Link href="/register/documents">Documents upload</Link>
             <Link href="/register/bank-details">Bank Details</Link>
           </div>
+          {/* <div
+            role="tablist"
+            className="tabs tabs-boxed full flex justify-evenly bg-[#93a1ad57] text-[#3A3A3A] p-3 rounded-t-xl"
+          >
+            <Link
+              role="tab"
+              className="tab tab-active"
+              href="/register/personal-info"
+            >
+              Personal Information
+            </Link>
+            <Link
+              role="tab"
+              className="tab"
+              href="/register/educational-details"
+            >
+              Education Details
+            </Link>
+            <Link role="tab" className="tab" href="/register/documents">
+              Documents upload
+            </Link>
+            <Link role="tab" className="tab" href="/register/bank-details">
+              Bank Details
+            </Link>
+          </div> */}
           <div className="w-full min-h-[10rem] h-auto rounded-b-xl bg-[#E8E8E8]">
             {children}
           </div>

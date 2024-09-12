@@ -15,7 +15,12 @@ export default function Navbar() {
           <Link href="/">Contact Us</Link>
         </div>
         <div>
-          <Button onClick={() => {}}>Register</Button>
+          <Link
+            className="bg-[#6B58CA] btn -translate-y-1 self-center min-h-[2rem] h-[2.5rem] text-white hover:bg-[#6B58CA] w-[6rem] border-none rounded-md"
+            href="/register/personal-info"
+          >
+            Register
+          </Link>
         </div>
       </nav>
     </>

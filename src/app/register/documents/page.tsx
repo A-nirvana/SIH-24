@@ -84,9 +84,7 @@ export default function Page() {
             </div>
           </label>
         </span>
-        <Button className="" onClick={() => {}}>
-          Submit
-        </Button>
+        <Button className="bg-[#6B58CA] w-[6rem] self-center">Submit</Button>
       </div>
     </div>
   );

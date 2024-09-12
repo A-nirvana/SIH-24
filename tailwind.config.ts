@@ -14,6 +14,11 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
+        footerDark : "hsl(var(--footer-dark))",
+        background : "hsl(var(--background-white))",
+        specialGreen : "hsl(var(--button-green))",
+        specialPurple : "hsl(var(--button-purple))",
+        dullGray : "hsl(var(--background-gray))",
         customGray: "rgba(212, 214, 215, 1)",
         customBlueLight: "rgba(21, 76, 124, 0.74)",
         customBlueDark: "rgba(0, 61, 114, 1)",

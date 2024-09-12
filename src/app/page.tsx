@@ -15,7 +15,7 @@ export default function Home() {
   // return <DragAndDropImageUploader onImageUpload={handleImageUpload} />;
   return (
     <main className={jost.className}>
-      <section className="flex justify-center h-[100vh] w-full bg-[#222831]">
+      <section className="flex justify-center h-[100vh] w-full bg-[#222831] text-white">
         <div className="flex flex-col w-[50%] justify-center gap-10 pl-[10%]">
           <div>
             <h1 className="font-bold text-4xl">
@@ -123,10 +123,10 @@ export default function Home() {
         <div className="w-0 md:w-[12rem] h-[12rem] bg-gradient-to-b from-[#43BBAD] to-[#222831] "></div>
         <div className="w-full flex flex-col gap-10 items-center justify-center">
           <span>
-            <h1 className="text-5xl text-center font-semibold">
+            <h1 className="text-5xl text-center font-semibold text-white">
               Register and Subsribe
             </h1>
-            <h2 className="text-4xl text-center font-semibold">
+            <h2 className="text-4xl text-center font-semibold text-white">
               Now for Scholarship
             </h2>
           </span>

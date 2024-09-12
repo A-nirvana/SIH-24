@@ -26,3 +26,13 @@ body {
     text-wrap: balance;
   }
 }
+
+@layer base{
+  :root{
+    --background-white : #D4D6D7;
+    --button-purple : #6B58CA;
+    --button-green : #43BBAD;
+    --background-gray : #212730;
+    --footer-dark : #131313;
+  }
+}

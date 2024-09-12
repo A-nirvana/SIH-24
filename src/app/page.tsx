@@ -32,12 +32,12 @@ export default function Home() {
             </h5>
           </div>
           <div>
-            <button className="bg-[#43BBAD] p-2 rounded-lg">Apply Now</button>
+            <Button className="bg-[#43BBAD]">Apply Now</Button>
           </div>
         </div>
         {/* picture is not done */}
         <div className="w-[50%] flex justify-center items-end">
-          <div className="">
+          <div className="bg-gradient-to-t from-[#43BBAD] to-transparent rounded-b-3xl">
             <Image
               src="/landingGirl.svg"
               width={300}
@@ -120,7 +120,7 @@ export default function Home() {
         </div>
       </section>
       <section className="w-full h-[80vh] flex">
-        <div className="w-[12rem] h-[12rem] bg-gradient-to-b from-[#43BBAD] to-[#222831]"></div>
+        <div className="w-0 md:w-[12rem] h-[12rem] bg-gradient-to-b from-[#43BBAD] to-[#222831] "></div>
         <div className="w-full flex flex-col gap-10 items-center justify-center">
           <span>
             <h1 className="text-5xl text-center font-semibold">
@@ -141,7 +141,7 @@ export default function Home() {
             Know More
           </button>
         </div>
-        <div className="w-[12rem] h-[12rem] bg-gradient-to-t from-[#483C84] to-[#222831] self-end"></div>
+        <div className="w-0 md:w-[12rem] h-[12rem] bg-gradient-to-t from-[#483C84] to-[#222831] self-end"></div>
       </section>
       <Footer />
     </main>

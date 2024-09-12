@@ -15,7 +15,7 @@ export default function Layout({
       <section className="w-full h-auto bg-white text-black px-[10%] py-16 flex flex-col gap-4">
         <h1 className="text-5xl font-semibold ml-[2%]">Register Now</h1>
         <h6 className="text-sm text-[#696B6E] ml-[2%]">
-          Please fill in the form below. We'll contact you as soon as possible.
+          Please fill in the form below. We&apos;ll contact you as soon as possible.
         </h6>
         <div className="w-full h-auto mt-12 flex flex-col items-center bg-[#93a1ad57] rounded-t-xl">
           <div className="full flex justify-evenly text-[#3A3A3A] w-4/5">

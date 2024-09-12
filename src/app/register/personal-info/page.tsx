@@ -24,13 +24,13 @@ export default function Page() {
       <div className="flex justify-between mt-6">
         <div className="w-[42%]">
           <p className="">
-            Father's Name <ReqStar />
+            Father&apos;s Name <ReqStar />
           </p>
           <Input />
         </div>
         <div className="w-[42%]">
           <p className="">
-            Mother's Name <ReqStar />
+            Mother&apos;s Name <ReqStar />
           </p>
           <Input />
         </div>

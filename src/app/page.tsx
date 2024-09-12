@@ -19,16 +19,15 @@ export default function Home() {
         <div className="flex flex-col w-[50%] justify-center gap-10 pl-[10%]">
           <div>
             <h1 className="font-bold text-4xl">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint,
-              provident.
+              Want to get the best scholarships available in the country? <br />
+              <span className="text-[#6B58CA]">Scholarific</span> is here for you.
             </h1>
           </div>
           <div>
             <h5>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero
-              modi a mollitia neque? Quisquam praesentium, quia quibusdam
-              voluptatum accusamus obcaecati ea iusto perferendis aspernatur
-              repellendus voluptatem est tenetur expedita voluptatibus?
+              Get the best scholarships available in The Prime Minister&apos;s Special Scholarship Scheme.
+              Get reminders and notifications for the scholarships you are eligible for.
+              Get verified for scholarships and recieve payments within a few days with <span className="text-[#6B58CA] text-lg">SCHOLARIFIC</span>.
             </h5>
           </div>
           <div>
@@ -81,10 +80,9 @@ export default function Home() {
             <p className="text-black">Students benifitted till date</p>
           </span>
           <p className="text-black text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, at
-            debitis. Ut tempore eum consectetur perferendis praesentium laborum
-            earum recusandae inventore vero possimus expedita fuga quod, sed
-            unde eveniet nemo.
+            We are the most experienced and popular scholarship platform in the country.
+            We have helped over 300k students to get the best scholarships available in the country.
+            We have a team of experts who are always ready to help you with any queries you have.
           </p>
         </div>
       </section>
@@ -96,9 +94,8 @@ export default function Home() {
             Say about Us ?
           </h1>
           <p className="text-xl text-black">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad,
-            facilis voluptate. Non, porro recusandae? Voluptate magni deserunt
-            obcaecati delectus natus.
+            It was a great experience with Scholarific. I got the best scholarship available in the country.
+            Now I am studying in one of the best colleges in the country. Thank you Scholarific.
           </p>
           <button className="bg-[#6B58CA] btn text-white hover:bg-[#6B58CA] w-[8rem] border-none rounded-md">
             View More
@@ -131,11 +128,10 @@ export default function Home() {
             </h2>
           </span>
           <p className="text-center px-20 text-[#A69999]">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            perferendis magnam corporis, necessitatibus iusto doloribus nesciunt
-            sed, unde ipsa, accusantium expedita quia temporibus vel consequatur
-            obcaecati esse? Exercitationem ab temporibus omnis quisquam eaque
-            dolore quasi laborum, consequatur aut! Quibusdam, totam!
+            No more worries for lack of financial support for your studies. Scholarific is here. <br/>
+            Register quickly and subscribe to the best scholarships available in the country.<br/>
+            Get reminders and notifications for the scholarships you are eligible for.
+            Get to your dream college with Scholarific.<br/> Register Now.
           </p>
           <button className="w-[8rem] bg-[#6B58CA] btn text-white hover:bg-[#6B58CA]">
             Know More
